@@ -24,6 +24,7 @@ Personal go-to directory for quickly setting-up stuff.
   * insert
   * parallel tasks
 * uuid-random
+* webpack
 
 ### Browser-side
 * axios
