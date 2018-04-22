@@ -1,6 +1,12 @@
 # quick-setups
 Personal go-to directory for quickly setting-up stuff.
 
+### Package management
+
+* with npm
+* with yarn
+
+### Server-side
 * express
   * http & https
   * serving static files
@@ -17,3 +23,16 @@ Personal go-to directory for quickly setting-up stuff.
   * concat
   * insert
   * parallel tasks
+* uuid-random
+
+### Browser-side
+* axios
+* bootstrap, popper.js
+* jquery
+* velocity-animate
+* eventemitter3
+* lodash
+* moment
+* redux
+* seamless-immutable
+* webfontloader
