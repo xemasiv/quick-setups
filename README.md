@@ -36,3 +36,6 @@ Personal go-to directory for quickly setting-up stuff.
 * redux
 * seamless-immutable
 * webfontloader
+* rxjs
+* checkly
+* simple-peer / webrtc
