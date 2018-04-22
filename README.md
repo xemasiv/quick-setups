@@ -39,3 +39,13 @@ Personal go-to directory for quickly setting-up stuff.
 * rxjs
 * checkly
 * simple-peer / webrtc
+
+### React-native
+
+* new app
+* windows batch & npm scripts
+  * adb-reverse.cmd
+  * clean, bundle, dev, assemble, release
+* react-navigation
+* redux-saga
+* asyncstorage
